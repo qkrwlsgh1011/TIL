@@ -19,7 +19,7 @@
 - 1일 1커밋 하기
 - [이동욱님 Github 계정](https://github.com/jojoldu)
 
-
+여기 수정했어요
 
 ## CLI
 
